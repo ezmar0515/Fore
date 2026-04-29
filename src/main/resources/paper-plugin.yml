@@ -1,0 +1,6 @@
+name: plz
+version: '1.0-SNAPSHOT'
+main: test_test.example.plz.Fore_copy
+api-version: '1.21'
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.0.10
